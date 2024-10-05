@@ -59,6 +59,8 @@
 </div>
 </p>
 
+<br />
+
 <div align="center">
-<img src="https://github.com/bytenano/bytenano/blob/main/Images/puro.gif" alt="" width="300">
+<img src="https://github.com/bytenano/bytenano/blob/main/Images/puro.gif" alt="" width="280">
 </div>
