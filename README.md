@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="btb-logo" src="./Images/logo.png#gh-dark-mode-only" width="500" />
-   <img alt="btb-logo" src="./Images/logo.png#gh-light-mode-only" width="500" />
+  <img alt="btb-logo" src="./Images/logo.png#gh-dark-mode-only" width="550" />
+   <img alt="btb-logo" src="./Images/logo.png#gh-light-mode-only" width="550" />
 </p>
 
 <div align=center style="background-color: transparent;">
