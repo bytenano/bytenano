@@ -9,11 +9,11 @@
 </div>
 
 <p align="center">
-> Hello. I'm Nano. Software engineer, reverse engineer and malware analyst. I love creative approaches to solving problems <
+> 𝗛𝗲𝗹𝗹𝗼. 𝗜'𝗺 𝗡𝗮𝗻𝗼. 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿, 𝗿𝗲𝘃𝗲𝗿𝘀𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝗻𝗱 𝗺𝗮𝗹𝘄𝗮𝗿𝗲 𝗮𝗻𝗮𝗹𝘆𝘀𝘁. 𝗜 𝗹𝗼𝘃𝗲 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗮𝗽𝗽𝗿𝗼𝗮𝗰𝗵𝗲𝘀 𝘁𝗼 𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 <
 </p>
 
 <p align="center">
-My main and favorite programming languages:
+𝗠𝘆 𝗺𝗮𝗶𝗻 𝗮𝗻𝗱 𝗳𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:
 </p>
 
 <div align=center style="background-color: transparent;">
