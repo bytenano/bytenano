@@ -15,12 +15,12 @@
 > Hello. I'm Nano. Software engineer, reverse engineer and malware analyst. I love creative approaches to solving problems <
 </p>
 
+<br />
+<br />
+
 <p align="center">
 My main and favorite programming languages:
 </p>
-
-<br />
-<br />
 
 <div align=center style="background-color: transparent;">
 	<img src="https://skillicons.dev/icons?i=cs,cpp,c,python"/>
