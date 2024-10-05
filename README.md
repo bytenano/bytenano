@@ -28,7 +28,6 @@ My main and favorite programming languages:
 </p>
 
 <br />
-<br />
 
 <div align="center">
 <table>
