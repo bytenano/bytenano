@@ -8,15 +8,9 @@
 	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=bytenano"/>
 </div>
 
-<br />
-<br />
-
 <p align="center">
 > Hello. I'm Nano. Software engineer, reverse engineer and malware analyst. I love creative approaches to solving problems <
 </p>
-
-<br />
-<br />
 
 <p align="center">
 My main and favorite programming languages:
