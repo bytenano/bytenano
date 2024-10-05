@@ -26,7 +26,7 @@
 <br />
 
 <p align="center">
-> 𝗠𝘆 𝗺𝗮𝗶𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 :𝟯 <
+> 𝗠𝘆 𝗺𝗮𝗶𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀: <
 </p>
 
 <br />
@@ -64,3 +64,9 @@
 <div align="center">
 <img src="https://github.com/bytenano/bytenano/blob/main/Images/puro.gif" alt="" width="280">
 </div>
+
+<br />
+
+<p align="center">
+𝘗𝘭𝘦𝘢𝘴𝘦 𝘥𝘰𝘯'𝘵 𝘣𝘰𝘵𝘩𝘦𝘳 𝘩𝘪𝘮. 𝘏𝘦'𝘴 𝘣𝘶𝘴𝘺 :3
+</p>
