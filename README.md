@@ -23,14 +23,21 @@ My main and favorite programming languages:
 <br />
 <br />
 
+<p align="center">
+> My main projects :3 <
+</p>
+
+<br />
+<br />
+
 <div align="center">
 <table>
   <thead>
     <tr border: none;>
-      <td><b>📘 Project</b></td>
+      <td><b>💾 Project</b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-      <td><b>👨‍💻 Is open</b></td>
+      <td><b>⛓ Forks</b></td>
+      <td><b>⚙️ Is open</b></td>
     </tr>
   </thead>
   <tbody>
