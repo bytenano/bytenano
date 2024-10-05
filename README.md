@@ -22,6 +22,7 @@ My main and favorite programming languages:
 	<img src="https://skillicons.dev/icons?i=cs,cpp,c,python"/>
 </div>
 
+<p align="center">
 <table>
   <thead>
     <tr border: none;>
@@ -47,3 +48,4 @@ My main and favorite programming languages:
 </tbody>
 </table>
 </div>
+</p>
