@@ -9,6 +9,7 @@
 </div>
 
 <br />
+<br />
 
 <p align="center">
 > Hello. I'm Nano. Software engineer, reverse engineer and malware analyst. I love creative approaches to solving problems <
@@ -22,6 +23,9 @@ My main and favorite programming languages:
 	<img src="https://skillicons.dev/icons?i=cs,cpp,c,python"/>
 </div>
 
+<br />
+<br />
+
 <div align="center">
 <table>
   <thead>
@@ -34,13 +38,13 @@ My main and favorite programming languages:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/bytenano/SimpleCrypter"><b>FindEXEC</b></a></td>
+      <td><a href="https://github.com/bytenano/SimpleCrypter"><b>SimpleCrypter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/bytenano/SimpleCrypter?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bytenano/SimpleCrypter?style=flat-square&labelColor=343b41"></td>
       <td>✅</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bytenano/BinaryToBytes-B2B"><b>x16Calc</b></a></td>
+      <td><a href="https://github.com/bytenano/BinaryToBytes-B2B"><b>BinaryToBytes</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/bytenano/BinaryToBytes-B2B?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bytenano/BinaryToBytes-B2B?style=flat-square&labelColor=343b41"></td>
       <td>✅</td>
