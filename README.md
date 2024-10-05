@@ -58,3 +58,8 @@
 </table>
 </div>
 </p>
+
+
+<div align="center">
+<img src="https://github.com/bytenano/bytenano/Images/puro.gif" alt="">
+</div>
