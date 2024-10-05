@@ -19,6 +19,9 @@
 My main and favorite programming languages:
 </p>
 
+<br />
+<br />
+
 <div align=center style="background-color: transparent;">
 	<img src="https://skillicons.dev/icons?i=cs,cpp,c,python"/>
 </div>
