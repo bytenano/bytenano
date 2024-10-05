@@ -22,7 +22,7 @@ My main and favorite programming languages:
 	<img src="https://skillicons.dev/icons?i=cs,cpp,c,python"/>
 </div>
 
-<p align="center">
+<div align="center">
 <table>
   <thead>
     <tr border: none;>
